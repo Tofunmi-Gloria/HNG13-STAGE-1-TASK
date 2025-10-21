@@ -38,7 +38,7 @@ Built for **Stage 1 Backend Task** of HNG13.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/Tofunmi-Gloria/HNG13-STAGE-1-Task.git
 ````
 
 2. Navigate into the project directory:
@@ -213,9 +213,8 @@ Welcome! The backend is running. Use POST /strings to analyze a string.
 
 ## Author
 
-* **Name:** `<Your Full Name>`
-* **Email:** `<Your Email>`
-* **GitHub:** `<Your GitHub Profile URL>`
+* **Name:** `<Jesutofunmi Afolabi>`
+* **Email:** `<jesutofunmiafolabi73@gmail.com>`
 
 ```
 
