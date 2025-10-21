@@ -38,7 +38,7 @@ Built for **Stage 1 Backend Task** of HNG13.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Tofunmi-Gloria/HNG13-STAGE-1-Task.git
+git clone https://github.com/Tofunmi-Gloria/HNG13-STAGE-1-TASK.git
 ````
 
 2. Navigate into the project directory:
